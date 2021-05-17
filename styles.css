@@ -77,9 +77,9 @@ body{
 }
 /*-----*/
 .pinUp{
-	margin-top: -114px;
+	margin-top: -107px;
 	padding-left: 3px;
-	font-size: .9em;
+	font-size: 0.881em;
 }
 /*-- responsive --*/
 @media (max-width: 576px){
