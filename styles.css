@@ -13,7 +13,7 @@ body{
 	padding: 30px;
 	margin: auto;
 	margin-top: 100px;
-	box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+	box-shadow: rgba(149, 157, 165, 0.2) 0px 5px 15px;
 	position: relative;
 }
 .form-title{
@@ -84,7 +84,7 @@ body{
 /*-- responsive --*/
 @media (max-width: 576px){
 	.formulario{
-		width: 300px;
+		width: 330px;
 	}
 	.form-input, .form-label, .form-submit{
 		font-size: .9em;
@@ -93,5 +93,9 @@ body{
 		margin-top: -105px;
 		padding-left: 3px;
 		font-size: .8em;
+	}
+	.pinUp{
+		margin-top: -106px;
+		font-size: .9em;
 	}
 }
