@@ -84,7 +84,7 @@ body{
 /*-- responsive --*/
 @media (max-width: 576px){
 	.formulario{
-		width: 330px;
+		width: 307px;
 	}
 	.form-input, .form-label, .form-submit{
 		font-size: .9em;
